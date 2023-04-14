@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning (about) **Python, ML & AI**
 - 👩‍🎓 I’m working on master's thesis on information extraction from food menus 📖 and preparing to finish my **Computational Linguistics** studies at Faculty of Arts at Masaryk university, Brno
-- 🔍 I’m looking for the first full-time job 🤩
+- 🔍 **I’m looking for the first full-time job / part-time job / side projects / internship 🤩**
   - Do you have a job that I might be a good fit for? Feel free to contact me, I am open to a range of opportunities.
   - I feel like I would be most beneficial in a medium-sized company to which I could already be of some value and where I could grow to more technical/professional positions or positions that would be a good fit to my skills/abilities
 - 🤝 In my free time, I try to solve 🎄 [Advent of Code 2022](https://github.com/Scharka/AoC)
