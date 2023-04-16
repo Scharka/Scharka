@@ -31,7 +31,7 @@ Here are some ideas to get you started:
   - my codes can be seen in the [Advent of Code 2022 repository](https://github.com/Scharka/AoC),
   - where my skills ends (things that I only have a very rough idea of so far): decorators, generators, inheritance
   
-  - 🤖 **ML/AI**: 
+- 🤖 **ML/AI**: 
   - I have a basic intuition about different algorithms, I acquired it in the course [Applied Machine Learning](https://is.muni.cz/predmet/phil/jaro2022/PLIN068)
   
 
