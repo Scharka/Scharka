@@ -43,4 +43,8 @@ Here are some ideas to get you started:
   - Do you have a job that I might be a good fit for? Feel free to contact me, I am open to a range of opportunities.
   - I feel like I would be most beneficial in a medium-sized company to which I could already be of some value and where I could grow to more technical/professional positions or positions that would be a good fit to my skills/abilities
 - ⚡ Fun fact: I love Czech language and I enjoy spreading it around - I teach Czech to foreigners. 👩‍🏫 I also know too much about the language to be a grammar Nazi, so don't worry!
+
+
+<h4 align="left">Contact</h4>
+
 - 📫 How to reach me: **sarka-melicharova@seznam.cz**
