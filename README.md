@@ -17,6 +17,7 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm Šárka</h1>
 <h3 align="center">Enthusiastic linguist exploring the world of coding, algorithms, data, ML and IT in general</h3>
 
+<!--
 <h3 align="left">Where do I stand now</h3>
 
 - I can't do much yet, but I'm working on it!
@@ -48,3 +49,4 @@ Here are some ideas to get you started:
 <h4 align="left">Contact</h4>
 
 - 📫 How to reach me: **sarka-melicharova@seznam.cz**
+-->
